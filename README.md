@@ -1,2 +1,15 @@
 # 2019_algorithm
-2019 algorithm
+
+
+## Solved Problem List
+
+### SW Expert Academy
+
+#### D2
+
+#### D3
+- 2085
+
+
+#### D4 
+
